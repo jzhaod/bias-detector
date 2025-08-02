@@ -1,0 +1,601 @@
+{
+  "biases": [
+    {
+      "id": 1,
+      "name": "Reward and Punishment Super-Response Tendency",
+      "category": "Incentive & Motivation",
+      "description": "Overreaction to incentive systems, both positive and negative",
+      "keywords": ["incentive", "reward", "punishment", "motivation", "bonus", "penalty", "compensation"],
+      "patterns": [
+        "gaming the system",
+        "work(?:ing)? to (?:the )?incentives?",
+        "perverse incentives?",
+        "motivated by (?:money|rewards?|bonuses?)"
+      ],
+      "examples": [
+        "Federal Express changed from hourly to shift-based pay to reduce deliberate delays",
+        "Xerox salespeople sold inferior old models because commission was higher"
+      ],
+      "antidotes": [
+        "Design incentives carefully to align with desired outcomes",
+        "Monitor for gaming behavior regularly",
+        "Consider unintended consequences of reward systems",
+        "Fear professional advice when it's especially good for the adviser"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Liking/Loving Tendency",
+      "category": "Social & Emotional",
+      "description": "Bias toward favoring people, products, and actions associated with liked entities",
+      "keywords": ["like", "love", "prefer", "favorite", "admire", "respect", "fond"],
+      "patterns": [
+        "I (?:really )?like (?:this|that|him|her|them)",
+        "because (?:I|we) (?:love|like|prefer)",
+        "(?:my|our) favorite",
+        "I admire (?:his|her|their)"
+      ],
+      "examples": [
+        "Choosing products endorsed by liked celebrities",
+        "Hiring people similar to yourself",
+        "Ignoring faults in loved ones"
+      ],
+      "antidotes": [
+        "Separate personal feelings from objective evaluation",
+        "Use structured decision criteria",
+        "Seek diverse perspectives",
+        "Focus on facts rather than feelings"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Disliking/Hating Tendency",
+      "category": "Social & Emotional",
+      "description": "Bias against people, products, and actions associated with disliked entities",
+      "keywords": ["hate", "dislike", "can't stand", "terrible", "awful", "despise", "detest"],
+      "patterns": [
+        "I (?:really )?(?:hate|dislike|can't stand)",
+        "(?:terrible|awful|horrible) (?:idea|person|company)",
+        "because (?:I|we) (?:hate|dislike)",
+        "never trust"
+      ],
+      "examples": [
+        "Rejecting good ideas from disliked competitors",
+        "Dismissing valid criticism from adversaries",
+        "Distorting facts to facilitate hatred"
+      ],
+      "antidotes": [
+        "Focus on merit rather than source",
+        "Use blind evaluation processes",
+        "Actively seek opposing viewpoints",
+        "Separate message from messenger"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Doubt-Avoidance Tendency",
+      "category": "Cognitive Processing",
+      "description": "Rush to eliminate uncertainty by reaching quick decisions",
+      "keywords": ["must decide", "can't wait", "need certainty", "eliminate doubt", "quick decision"],
+      "patterns": [
+        "(?:must|need to) decide (?:now|quickly|immediately)",
+        "can't (?:wait|delay|postpone)",
+        "(?:eliminate|remove) (?:doubt|uncertainty)",
+        "no time to (?:think|analyze)"
+      ],
+      "examples": [
+        "Making hasty investment decisions to avoid uncertainty",
+        "Rushing into relationships or commitments",
+        "Quick religious or ideological conversions under stress"
+      ],
+      "antidotes": [
+        "Force yourself to wait before major decisions",
+        "Gather more information systematically",
+        "Consider multiple alternatives",
+        "Embrace uncertainty as natural"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Inconsistency-Avoidance Tendency",
+      "category": "Cognitive Processing",
+      "description": "Resistance to changing beliefs, habits, or prior conclusions",
+      "keywords": ["always believed", "never change", "stick to", "maintain position", "consistent"],
+      "patterns": [
+        "(?:always|never) (?:believed|thought|done)",
+        "(?:stick to|maintain) (?:my|our) (?:position|belief|view)",
+        "(?:can't|won't) change (?:my|our) mind",
+        "(?:consistent with|supports) (?:my|our) (?:belief|view)"
+      ],
+      "examples": [
+        "Refusing to update beliefs despite new evidence",
+        "Maintaining ineffective habits",
+        "Intensifying commitment after sacrifices"
+      ],
+      "antidotes": [
+        "Actively seek disconfirming evidence",
+        "Use Darwin's practice of considering contrary evidence",
+        "Regularly review and update beliefs",
+        "Reward changing your mind when warranted"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Curiosity Tendency",
+      "category": "Cognitive Processing",
+      "description": "Strong drive to learn and understand",
+      "keywords": ["wonder", "curious", "want to know", "interesting", "explore", "discover"],
+      "patterns": [
+        "I (?:wonder|am curious) (?:about|if|whether)",
+        "(?:want|need) to (?:know|understand|learn)",
+        "(?:interesting|fascinating) (?:to|that)",
+        "let's (?:explore|discover|investigate)"
+      ],
+      "examples": [
+        "Researching topics deeply out of interest",
+        "Asking probing questions",
+        "Pursuing knowledge for its own sake"
+      ],
+      "antidotes": [
+        "Channel curiosity productively",
+        "Balance exploration with execution",
+        "Set learning priorities"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Kantian Fairness Tendency",
+      "category": "Social & Comparison",
+      "description": "Expectation that behavior patterns should be universal",
+      "keywords": ["fair", "unfair", "should", "equal", "everyone", "golden rule"],
+      "patterns": [
+        "(?:only|not) fair (?:if|that|when)",
+        "everyone should (?:do|follow|respect)",
+        "(?:equal|same) (?:treatment|rules|standards)",
+        "golden rule"
+      ],
+      "examples": [
+        "Expecting equal treatment in all situations",
+        "Following rules even when disadvantageous",
+        "Reciprocating both good and bad behavior"
+      ],
+      "antidotes": [
+        "Recognize when fairness doesn't apply",
+        "Consider context and consequences",
+        "Balance fairness with other values"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Envy/Jealousy Tendency",
+      "category": "Social & Comparison",
+      "description": "Resentment of others' advantages or success",
+      "keywords": ["envy", "jealous", "unfair advantage", "why them", "deserve more"],
+      "patterns": [
+        "(?:envy|jealous) (?:of|about)",
+        "(?:unfair|undeserved) (?:advantage|success|wealth)",
+        "why (?:do|does) (?:they|he|she) (?:get|have)",
+        "I deserve (?:more|better)"
+      ],
+      "examples": [
+        "Resenting colleagues' promotions",
+        "Begrudging others' success",
+        "Sabotaging competitors out of envy"
+      ],
+      "antidotes": [
+        "Focus on your own progress",
+        "Practice gratitude",
+        "Convert envy into motivation",
+        "Collaborate rather than compete"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Reciprocation Tendency",
+      "category": "Social & Comparison",
+      "description": "Automatic tendency to reciprocate both favors and disfavors",
+      "keywords": ["owe", "return favor", "pay back", "reciprocate", "even score"],
+      "patterns": [
+        "(?:owe|owes) (?:me|us|them) (?:a|one)",
+        "(?:return|pay back) the favor",
+        "(?:get|getting) even",
+        "(?:reciprocate|return) (?:the|their)"
+      ],
+      "examples": [
+        "Feeling obligated after receiving small favors",
+        "Cialdini's compliance techniques",
+        "Retaliating against perceived slights"
+      ],
+      "antidotes": [
+        "Don't accept favors from vendors",
+        "Recognize manipulation attempts",
+        "Respond proportionally",
+        "Break cycles of retaliation"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Influence-from-Mere-Association Tendency",
+      "category": "Perception & Context",
+      "description": "Judging based on associations rather than merit",
+      "keywords": ["associated with", "linked to", "connected with", "because of association"],
+      "patterns": [
+        "(?:associated|linked|connected) with",
+        "because (?:of|they're) (?:associated|connected)",
+        "(?:guilt|credit) by association",
+        "(?:good|bad) (?:company|crowd|influence)"
+      ],
+      "examples": [
+        "Persian Messenger Syndrome - killing bearers of bad news",
+        "Assuming high price means high quality",
+        "Judging people by their associations"
+      ],
+      "antidotes": [
+        "Evaluate based on intrinsic merit",
+        "Welcome bad news promptly",
+        "Look past surface associations",
+        "Examine causal vs correlational links"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Simple, Pain-Avoiding Psychological Denial",
+      "category": "Self-Perception",
+      "description": "Refusing to acknowledge painful realities",
+      "keywords": ["can't be true", "refuse to believe", "denial", "impossible", "not happening"],
+      "patterns": [
+        "(?:can't|couldn't) be (?:true|real|happening)",
+        "(?:refuse|refusing) to (?:believe|accept)",
+        "(?:not|never) (?:possible|happening)",
+        "(?:must be|has to be) (?:wrong|mistake)"
+      ],
+      "examples": [
+        "Mother refusing to believe son died in war",
+        "Denying addiction problems",
+        "Ignoring health warnings"
+      ],
+      "antidotes": [
+        "Face reality however painful",
+        "Seek support for difficult truths",
+        "Use gradual acceptance strategies",
+        "Focus on what you can control"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Excessive Self-Regard Tendency",
+      "category": "Self-Perception",
+      "description": "Overestimating own abilities, judgment, and worth",
+      "keywords": ["I'm sure", "definitely", "obviously", "clearly", "certainly", "my superior"],
+      "patterns": [
+        "I'?m (?:absolutely )?(?:sure|certain|confident)",
+        "(?:definitely|obviously|clearly) (?:will|going to)",
+        "I (?:always|never) (?:get|make|do)",
+        "(?:my|our) (?:superior|better|best)"
+      ],
+      "examples": [
+        "90% of Swedish drivers think they're above average",
+        "Overconfident hiring decisions",
+        "Criminals rationalizing their actions"
+      ],
+      "antidotes": [
+        "Force objective self-evaluation",
+        "Seek external feedback",
+        "Use reference class forecasting",
+        "Underweight face-to-face impressions"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Overoptimism Tendency",
+      "category": "Prediction & Planning",
+      "description": "Unrealistic positive expectations about outcomes",
+      "keywords": ["will succeed", "can't fail", "bound to work", "guaranteed success", "sure thing"],
+      "patterns": [
+        "(?:will|going to) (?:definitely|certainly|surely) (?:succeed|work)",
+        "(?:bound to|sure to|can't help but) (?:succeed|win|work)",
+        "(?:easy|simple|no problem) to (?:achieve|reach|get)",
+        "(?:impossible|can't) (?:fail|go wrong)"
+      ],
+      "examples": [
+        "What a man wishes, he believes",
+        "Underestimating project timelines",
+        "Overestimating startup success rates"
+      ],
+      "antidotes": [
+        "Use probability math of Fermat and Pascal",
+        "Consider base rates",
+        "Plan for failure scenarios",
+        "Add safety margins to estimates"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Deprival-Superreaction Tendency",
+      "category": "Perception & Context",
+      "description": "Extreme reaction to loss or potential loss",
+      "keywords": ["losing", "take away", "deprived", "loss", "stolen", "unfair loss"],
+      "patterns": [
+        "(?:losing|lost|lose) (?:my|our)",
+        "(?:take|taking|took) away",
+        "(?:deprived|depriving) (?:of|me|us)",
+        "(?:stolen|robbed|cheated) (?:from|of)"
+      ],
+      "examples": [
+        "Loss hurts more than equivalent gain helps",
+        "Intense territoriality",
+        "Escalating commitment to avoid losses"
+      ],
+      "antidotes": [
+        "Reframe losses as gains foregone",
+        "Focus on absolute position",
+        "Set loss limits in advance",
+        "Consider sunk costs as irrelevant"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Social-Proof Tendency",
+      "category": "Social Influence",
+      "description": "Following the behavior of others, especially under uncertainty",
+      "keywords": ["everyone", "most people", "popular", "trending", "consensus", "majority"],
+      "patterns": [
+        "everyone (?:is|does|thinks|says)",
+        "most people (?:believe|think|do|choose)",
+        "(?:very )?popular (?:choice|option|method)",
+        "(?:general )?consensus (?:is|seems)"
+      ],
+      "examples": [
+        "Choosing crowded restaurants",
+        "Following investment bubbles",
+        "Conforming to group behavior"
+      ],
+      "antidotes": [
+        "Think independently first",
+        "Question crowd wisdom",
+        "Look for contrarian views",
+        "Recognize manipulation of social proof"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Contrast-Misreaction Tendency",
+      "category": "Perception & Context",
+      "description": "Misjudging based on contrast rather than absolute values",
+      "keywords": ["compared to", "relative to", "in contrast", "versus", "much better than"],
+      "patterns": [
+        "(?:compared|relative) to",
+        "(?:much|far) (?:better|worse) than",
+        "in (?:contrast|comparison) (?:to|with)",
+        "(?:big|small) (?:difference|change)"
+      ],
+      "examples": [
+        "Real estate agents showing bad houses first",
+        "Missing small leaks that sink great ships",
+        "Price anchoring in negotiations"
+      ],
+      "antidotes": [
+        "Judge in absolute terms",
+        "Beware of deliberate contrast manipulation",
+        "Focus on intrinsic value",
+        "Use fixed reference points"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Stress-Influence Tendency",
+      "category": "Perception & Context",
+      "description": "Dysfunction or behavior change under stress",
+      "keywords": ["stressed", "pressure", "breaking point", "can't handle", "overwhelming"],
+      "patterns": [
+        "(?:under|feeling) (?:stress|pressure)",
+        "(?:breaking|cracking) (?:point|under)",
+        "(?:can't|cannot) (?:handle|cope|deal)",
+        "(?:overwhelming|too much) (?:stress|pressure)"
+      ],
+      "examples": [
+        "Pavlov's dogs breaking under stress",
+        "Poor decisions during crises",
+        "Light stress improving performance"
+      ],
+      "antidotes": [
+        "Build stress resilience",
+        "Delay decisions when highly stressed",
+        "Use stress-reduction techniques",
+        "Prepare for high-stress scenarios"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Availability-Misweighing Tendency",
+      "category": "Cognitive Processing",
+      "description": "Overweighting easily recalled information",
+      "keywords": ["reminds me", "just like", "recently", "comes to mind", "memorable"],
+      "patterns": [
+        "(?:reminds me|just like) (?:of|when)",
+        "(?:recently|just) (?:saw|heard|read)",
+        "(?:comes|came) to mind",
+        "(?:vivid|memorable) (?:example|case|instance)"
+      ],
+      "examples": [
+        "Overestimating plane crash risks after news coverage",
+        "Using recent examples over statistics",
+        "Vivid anecdotes outweighing data"
+      ],
+      "antidotes": [
+        "Use checklists and procedures",
+        "Seek statistical evidence",
+        "Don't overweight recent events",
+        "Ideas aren't worth more because available"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Use-It-or-Lose-It Tendency",
+      "category": "Cognitive Processing",
+      "description": "Skills deteriorate without practice",
+      "keywords": ["rusty", "out of practice", "forgot how", "used to know", "lost skill"],
+      "patterns": [
+        "(?:rusty|out of practice) (?:at|with)",
+        "(?:forgot|forgotten) how to",
+        "used to (?:know|be able|could)",
+        "(?:lost|losing) (?:my|the) (?:skill|ability)"
+      ],
+      "examples": [
+        "Forgetting calculus without use",
+        "Deteriorating language skills",
+        "Lost musical abilities"
+      ],
+      "antidotes": [
+        "Practice important skills regularly",
+        "Use functional equivalents of simulators",
+        "Maintain broad competencies",
+        "Schedule regular skill refreshers"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Drug-Misinfluence Tendency",
+      "category": "Chemical Influences",
+      "description": "Impaired judgment from chemical substances",
+      "keywords": ["drunk", "high", "intoxicated", "under influence", "impaired"],
+      "patterns": [
+        "(?:drunk|drinking|intoxicated)",
+        "(?:high|stoned|using)",
+        "under (?:the )?influence",
+        "(?:impaired|affected) (?:judgment|thinking)"
+      ],
+      "examples": [
+        "Alcohol destroying lives",
+        "Drug-induced poor decisions",
+        "Prescription medication effects"
+      ],
+      "antidotes": [
+        "Avoid harmful substances",
+        "Never make important decisions impaired",
+        "Recognize impairment in others",
+        "Seek help for dependencies"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Senescence-Misinfluence Tendency",
+      "category": "Aging Influences",
+      "description": "Age-related cognitive decline affecting judgment",
+      "keywords": ["getting old", "age showing", "senior moment", "forgot again", "declining"],
+      "patterns": [
+        "(?:getting|growing) (?:old|older)",
+        "(?:age|aging) (?:showing|affecting)",
+        "(?:senior|elderly) moment",
+        "(?:memory|mind) (?:declining|deteriorating)"
+      ],
+      "examples": [
+        "Reduced cognitive flexibility with age",
+        "Memory decline affecting decisions",
+        "Difficulty adapting to new information"
+      ],
+      "antidotes": [
+        "Stay mentally active",
+        "Seek help for important decisions",
+        "Use memory aids and systems",
+        "Maintain learning habits"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Authority-Misinfluence Tendency",
+      "category": "Social Influence",
+      "description": "Excessive deference to authority figures",
+      "keywords": ["expert says", "authority", "leader", "boss says", "told by"],
+      "patterns": [
+        "(?:expert|authority) (?:says|said|believes)",
+        "(?:boss|leader|chief) (?:says|wants|ordered)",
+        "(?:told|instructed) by (?:authority|expert)",
+        "(?:must be|has to be) (?:right|correct)"
+      ],
+      "examples": [
+        "Milgram's obedience experiments",
+        "Following bad orders",
+        "Deferring to wrong experts"
+      ],
+      "antidotes": [
+        "Question authority respectfully",
+        "Verify expert credentials",
+        "Think independently",
+        "Be careful whom you appoint to power"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Twaddle Tendency",
+      "category": "Communication",
+      "description": "Excessive meaningless talk that impedes serious work",
+      "keywords": ["rambling", "prattle", "meaningless talk", "waste time talking", "blather"],
+      "patterns": [
+        "(?:rambling|prattling) (?:on|about)",
+        "(?:meaningless|pointless) (?:talk|discussion)",
+        "(?:waste|wasting) time (?:talking|discussing)",
+        "(?:blather|babble|chatter) (?:about|on)"
+      ],
+      "examples": [
+        "Meetings dominated by irrelevant talk",
+        "Academic committees wasting time",
+        "Social chatter preventing work"
+      ],
+      "antidotes": [
+        "Keep prattlers away from serious work",
+        "Set clear agendas and time limits",
+        "Focus on actionable discussions",
+        "Value brevity and clarity"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Reason-Respecting Tendency",
+      "category": "Communication",
+      "description": "Compliance increases when reasons are given, even bad ones",
+      "keywords": ["because", "reason is", "therefore", "since", "due to"],
+      "patterns": [
+        "because (?:I|we|they) (?:need|want|must)",
+        "(?:reason|reasoning) (?:is|being)",
+        "therefore (?:we|I|you) (?:should|must)",
+        "(?:since|due to) (?:the|this)"
+      ],
+      "examples": [
+        "Because I need to make copies' increasing compliance",
+        "Fake reasons working as well as real ones",
+        "People following poor reasoning"
+      ],
+      "antidotes": [
+        "Evaluate quality of reasons given",
+        "Don't accept meaningless explanations",
+        "Ask for evidence, not just reasons",
+        "Teach who, what, where, when, why"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Lollapalooza Tendency",
+      "category": "Multiple Biases",
+      "description": "Extreme consequences from confluences of psychological tendencies",
+      "keywords": ["multiple factors", "perfect storm", "everything aligned", "confluence"],
+      "patterns": [
+        "(?:multiple|several) (?:factors|biases|tendencies)",
+        "perfect storm (?:of|for)",
+        "everything (?:aligned|came together|combined)",
+        "(?:confluence|combination) of"
+      ],
+      "examples": [
+        "Tupperware parties using multiple biases",
+        "Cults combining isolation, commitment, social proof",
+        "Financial bubbles with multiple psychological factors"
+      ],
+      "antidotes": [
+        "Recognize when multiple biases present",
+        "Be extra cautious with combinations",
+        "Break down complex situations",
+        "Address each bias separately"
+      ]
+    }
+  ]
+}

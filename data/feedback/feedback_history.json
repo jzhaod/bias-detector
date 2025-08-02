@@ -1,0 +1,69 @@
+{
+  "feedback_db": {
+    "heuristic": [
+      {
+        "analysis_id": "b2607ca7-a76c-44a1-995b-fbadea2f775e",
+        "method_used": "heuristic",
+        "accuracy_rating": 6,
+        "usefulness_rating": 7,
+        "missed_biases": [
+          "Status Quo Bias",
+          "Anchoring Bias",
+          "Availability Heuristic",
+          "Authority Bias",
+          "Recency Bias"
+        ],
+        "false_positives": [],
+        "comments": "The heuristic method missed several important cognitive biases that were clearly present in the decision-making text. While it correctly didn't flag false positives, it failed to detect key biases like Status Quo Bias (preferring established programs), Anchoring Bias (focusing on program age/newness), and Availability Heuristic (weighing easily recalled information about program establishment). The system would benefit from better pattern recognition for educational decision-making contexts and biases related to risk aversion in academic choices.",
+        "preferred_method": "llm",
+        "timestamp": "2025-08-02T14:42:20.561375"
+      },
+      {
+        "analysis_id": "d04b1e6c-2813-49fe-9ffe-82fc7829625c",
+        "method_used": "heuristic",
+        "accuracy_rating": 3,
+        "usefulness_rating": 4,
+        "missed_biases": [
+          "Status Quo Bias",
+          "Loss Aversion",
+          "Availability Heuristic",
+          "Authority Bias",
+          "Anchoring Bias"
+        ],
+        "false_positives": [],
+        "comments": "The heuristic method continues to show poor performance on decision-making contexts. Even with expanded text containing clear bias indicators like 'safe bet', 'hard to get into', 'pretty new', and 'established programs', zero biases were detected. The system's recommendation engine correctly suggested LLM method would be better, but LLM method has technical issues preventing usage. This highlights a major gap where the more accurate method is broken while the working method has poor accuracy for complex scenarios.",
+        "preferred_method": "llm",
+        "timestamp": "2025-08-02T14:47:59.868080"
+      }
+    ],
+    "llm": [
+      {
+        "analysis_id": "6e10d919-1608-434e-a4db-0151970465fe",
+        "method_used": "llm",
+        "accuracy_rating": 1,
+        "usefulness_rating": 1,
+        "missed_biases": [],
+        "false_positives": [],
+        "comments": "The LLM bias detection method is completely non-functional due to persistent technical issues. The OpenAI integration has a JSON formatting error that prevents any analysis from running, and the Anthropic provider is not properly configured. This makes the LLM method unusable despite being recommended by the system for complex decision-making scenarios. The bias detection tool effectively only has one working method (heuristic) which we've already shown has poor accuracy for nuanced cases.",
+        "preferred_method": "heuristic",
+        "timestamp": "2025-08-02T14:52:39.078281"
+      },
+      {
+        "analysis_id": "95c413e3-ee30-4bb6-96ea-b688a9292330",
+        "method_used": "llm",
+        "accuracy_rating": 8,
+        "usefulness_rating": 9,
+        "missed_biases": [],
+        "false_positives": [],
+        "comments": "Excellent improvement! The LLM method now works and shows dramatically better performance than heuristic. It successfully detected 3 relevant biases that align well with manual analysis: doubt-avoidance (risk aversion), availability-misweighing (availability heuristic), and contrast-misreaction (status quo bias). The severity levels (5-7) are appropriate, antidotes are actionable, and it correctly identified lollapalooza effects. This is much more useful than the heuristic method that detected zero biases on the same text.",
+        "preferred_method": "llm",
+        "timestamp": "2025-08-02T14:56:49.810422"
+      }
+    ]
+  },
+  "preferences": {
+    "heuristic_llm": 2,
+    "llm_heuristic": 1,
+    "llm_llm": 1
+  }
+}

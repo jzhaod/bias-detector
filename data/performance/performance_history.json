@@ -1,0 +1,267 @@
+{
+  "analysis_history": {
+    "heuristic": [
+      {
+        "timestamp": "2025-08-02T14:20:00.164066",
+        "analysis_id": "fe433411-3da0-4cc9-970d-a45ab9dfeedb",
+        "method": "heuristic",
+        "processing_time_ms": 4.167079925537109,
+        "biases_detected": 0,
+        "confidence_scores": [],
+        "estimated_cost": 0.0,
+        "text_length": 190,
+        "error": false
+      },
+      {
+        "timestamp": "2025-08-02T14:24:13.170058",
+        "analysis_id": "6ca702a5-1efd-4449-8c1c-8ddbd75195e6",
+        "method": "heuristic",
+        "processing_time_ms": 1.634836196899414,
+        "biases_detected": 0,
+        "confidence_scores": [],
+        "estimated_cost": 0.0,
+        "text_length": 243,
+        "error": false
+      },
+      {
+        "timestamp": "2025-08-02T14:25:42.455326",
+        "analysis_id": "5479be85-797d-4ee3-9d51-86714c04eb68",
+        "method": "heuristic",
+        "processing_time_ms": 0.5021095275878906,
+        "biases_detected": 1,
+        "confidence_scores": [
+          0.2
+        ],
+        "estimated_cost": 0.0,
+        "text_length": 492,
+        "error": false
+      },
+      {
+        "timestamp": "2025-08-02T14:36:07.707565",
+        "analysis_id": "b2607ca7-a76c-44a1-995b-fbadea2f775e",
+        "method": "heuristic",
+        "processing_time_ms": 0.6210803985595703,
+        "biases_detected": 0,
+        "confidence_scores": [],
+        "estimated_cost": 0.0,
+        "text_length": 618,
+        "error": false
+      },
+      {
+        "timestamp": "2025-08-02T14:47:28.002509",
+        "analysis_id": "d04b1e6c-2813-49fe-9ffe-82fc7829625c",
+        "method": "heuristic",
+        "processing_time_ms": 0.7419586181640625,
+        "biases_detected": 0,
+        "confidence_scores": [],
+        "estimated_cost": 0.0,
+        "text_length": 863,
+        "error": false
+      },
+      {
+        "timestamp": "2025-08-02T15:32:34.142520",
+        "analysis_id": "b1f9f236-423a-465b-94db-9fc657674542",
+        "method": "heuristic",
+        "processing_time_ms": 1.4901161193847656,
+        "biases_detected": 0,
+        "confidence_scores": [],
+        "estimated_cost": 0.0,
+        "text_length": 509,
+        "error": false
+      }
+    ],
+    "llm": [
+      {
+        "timestamp": "2025-08-02T14:20:10.104578",
+        "analysis_id": "eb760530-e892-445d-8197-38f38e96db37",
+        "method": "llm",
+        "processing_time_ms": 2083.2650661468506,
+        "biases_detected": 0,
+        "confidence_scores": [],
+        "estimated_cost": 0,
+        "text_length": 0,
+        "error": true
+      },
+      {
+        "timestamp": "2025-08-02T14:47:21.086697",
+        "analysis_id": "dfd1a08b-940b-4965-97ab-5abe9577200a",
+        "method": "llm",
+        "processing_time_ms": 1631.1769485473633,
+        "biases_detected": 0,
+        "confidence_scores": [],
+        "estimated_cost": 0,
+        "text_length": 0,
+        "error": true
+      },
+      {
+        "timestamp": "2025-08-02T14:52:19.404780",
+        "analysis_id": "6e10d919-1608-434e-a4db-0151970465fe",
+        "method": "llm",
+        "processing_time_ms": 986.213207244873,
+        "biases_detected": 0,
+        "confidence_scores": [],
+        "estimated_cost": 0,
+        "text_length": 0,
+        "error": true
+      },
+      {
+        "timestamp": "2025-08-02T14:52:24.965555",
+        "analysis_id": "e313d87a-beac-48f4-b8b3-7301cc209788",
+        "method": "llm",
+        "processing_time_ms": 134.4151496887207,
+        "biases_detected": 0,
+        "confidence_scores": [],
+        "estimated_cost": 0,
+        "text_length": 0,
+        "error": true
+      },
+      {
+        "timestamp": "2025-08-02T14:52:30.552297",
+        "analysis_id": "079bc26a-eabe-4ca3-a074-3c44688bca40",
+        "method": "llm",
+        "processing_time_ms": 0.03981590270996094,
+        "biases_detected": 0,
+        "confidence_scores": [],
+        "estimated_cost": 0,
+        "text_length": 0,
+        "error": true
+      },
+      {
+        "timestamp": "2025-08-02T14:56:11.678036",
+        "analysis_id": "b37783e2-31ab-4fab-a26d-f6878c225676",
+        "method": "llm",
+        "processing_time_ms": 15098.958015441895,
+        "biases_detected": 3,
+        "confidence_scores": [
+          0.85,
+          0.75,
+          0.7
+        ],
+        "estimated_cost": 0.000457,
+        "text_length": 208,
+        "error": false
+      },
+      {
+        "timestamp": "2025-08-02T14:56:35.173614",
+        "analysis_id": "95c413e3-ee30-4bb6-96ea-b688a9292330",
+        "method": "llm",
+        "processing_time_ms": 15542.671203613281,
+        "biases_detected": 3,
+        "confidence_scores": [
+          0.85,
+          0.75,
+          0.7
+        ],
+        "estimated_cost": 0.00051,
+        "text_length": 445,
+        "error": false
+      },
+      {
+        "timestamp": "2025-08-02T15:15:06.123533",
+        "analysis_id": "b3c8abb6-e21d-4bc3-ac7c-1e534103abe9",
+        "method": "llm",
+        "processing_time_ms": 12042.650938034058,
+        "biases_detected": 3,
+        "confidence_scores": [
+          0.9,
+          0.8,
+          0.7
+        ],
+        "estimated_cost": 0.000469,
+        "text_length": 130,
+        "error": false
+      },
+      {
+        "timestamp": "2025-08-02T15:15:24.844348",
+        "analysis_id": "1056e6c3-1cc4-4380-99d9-335c7477b9fb",
+        "method": "llm",
+        "processing_time_ms": 12146.108150482178,
+        "biases_detected": 3,
+        "confidence_scores": [
+          0.85,
+          0.8,
+          0.75
+        ],
+        "estimated_cost": 0.000452,
+        "text_length": 248,
+        "error": false
+      },
+      {
+        "timestamp": "2025-08-02T15:32:50.081637",
+        "analysis_id": "d0b55235-dfb7-4159-b06e-36fcc9c90243",
+        "method": "llm",
+        "processing_time_ms": 10828.902006149292,
+        "biases_detected": 2,
+        "confidence_scores": [
+          0.7,
+          0.6
+        ],
+        "estimated_cost": 0.000431,
+        "text_length": 509,
+        "error": false
+      }
+    ]
+  },
+  "feedback_history": {
+    "heuristic": [
+      {
+        "analysis_id": "b2607ca7-a76c-44a1-995b-fbadea2f775e",
+        "method_used": "heuristic",
+        "accuracy_rating": 6,
+        "usefulness_rating": 7,
+        "missed_biases": [
+          "Status Quo Bias",
+          "Anchoring Bias",
+          "Availability Heuristic",
+          "Authority Bias",
+          "Recency Bias"
+        ],
+        "false_positives": [],
+        "comments": "The heuristic method missed several important cognitive biases that were clearly present in the decision-making text. While it correctly didn't flag false positives, it failed to detect key biases like Status Quo Bias (preferring established programs), Anchoring Bias (focusing on program age/newness), and Availability Heuristic (weighing easily recalled information about program establishment). The system would benefit from better pattern recognition for educational decision-making contexts and biases related to risk aversion in academic choices.",
+        "preferred_method": "llm",
+        "timestamp": "2025-08-02T14:42:20.561375"
+      },
+      {
+        "analysis_id": "d04b1e6c-2813-49fe-9ffe-82fc7829625c",
+        "method_used": "heuristic",
+        "accuracy_rating": 3,
+        "usefulness_rating": 4,
+        "missed_biases": [
+          "Status Quo Bias",
+          "Loss Aversion",
+          "Availability Heuristic",
+          "Authority Bias",
+          "Anchoring Bias"
+        ],
+        "false_positives": [],
+        "comments": "The heuristic method continues to show poor performance on decision-making contexts. Even with expanded text containing clear bias indicators like 'safe bet', 'hard to get into', 'pretty new', and 'established programs', zero biases were detected. The system's recommendation engine correctly suggested LLM method would be better, but LLM method has technical issues preventing usage. This highlights a major gap where the more accurate method is broken while the working method has poor accuracy for complex scenarios.",
+        "preferred_method": "llm",
+        "timestamp": "2025-08-02T14:47:59.868080"
+      }
+    ],
+    "llm": [
+      {
+        "analysis_id": "6e10d919-1608-434e-a4db-0151970465fe",
+        "method_used": "llm",
+        "accuracy_rating": 1,
+        "usefulness_rating": 1,
+        "missed_biases": [],
+        "false_positives": [],
+        "comments": "The LLM bias detection method is completely non-functional due to persistent technical issues. The OpenAI integration has a JSON formatting error that prevents any analysis from running, and the Anthropic provider is not properly configured. This makes the LLM method unusable despite being recommended by the system for complex decision-making scenarios. The bias detection tool effectively only has one working method (heuristic) which we've already shown has poor accuracy for nuanced cases.",
+        "preferred_method": "heuristic",
+        "timestamp": "2025-08-02T14:52:39.078281"
+      },
+      {
+        "analysis_id": "95c413e3-ee30-4bb6-96ea-b688a9292330",
+        "method_used": "llm",
+        "accuracy_rating": 8,
+        "usefulness_rating": 9,
+        "missed_biases": [],
+        "false_positives": [],
+        "comments": "Excellent improvement! The LLM method now works and shows dramatically better performance than heuristic. It successfully detected 3 relevant biases that align well with manual analysis: doubt-avoidance (risk aversion), availability-misweighing (availability heuristic), and contrast-misreaction (status quo bias). The severity levels (5-7) are appropriate, antidotes are actionable, and it correctly identified lollapalooza effects. This is much more useful than the heuristic method that detected zero biases on the same text.",
+        "preferred_method": "llm",
+        "timestamp": "2025-08-02T14:56:49.810422"
+      }
+    ]
+  }
+}

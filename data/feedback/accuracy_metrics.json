@@ -1,0 +1,12 @@
+{
+  "heuristic": {
+    "total": 2,
+    "sum_accuracy": 9,
+    "sum_usefulness": 11
+  },
+  "llm": {
+    "total": 2,
+    "sum_accuracy": 9,
+    "sum_usefulness": 10
+  }
+}
