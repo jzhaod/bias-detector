@@ -40,22 +40,18 @@ uv run python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'
 
 Add to your Claude Desktop configuration:
 
-### macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`
-### Windows: `%APPDATA%\Claude\claude_desktop_config.json`
+- macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`
+- Windows: `%APPDATA%\Claude\claude_desktop_config.json`
 
 ```json
-{
-  "mcpServers": {
     "bias-detector": {
-      "command": "uv",
-      "args": ["run", "python", "-m", "src.main"],
+      "command": "/bin/bash",
+      "args": ["-c", "cd /absolute/path/to/bias-detector-mcp && source .venv/bin/activate && python src/main.py"],
       "cwd": "/absolute/path/to/bias-detector-mcp",
       "env": {
         "OPENAI_API_KEY": "your-api-key-here"
       }
     }
-  }
-}
 ```
 
 ## Usage
