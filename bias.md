@@ -4,7 +4,7 @@ One such outcome is caused by a quantum effect in human perception. If stimulus 
 Even when perception does get through to man’s brain, it is often mis-weighted, because what is registered in perception is in the shockingness of apparent contrast, not the standard scientific units that make possible science and good engineering.
 Man’s often wrong but generally useful psychological tendencies are quite numerous and quite different. The natural consequence of this profusion of tendencies is the grand general principle of social psychology: Cognition is ordinarily situation-dependent, so that different situations often cause different conclusions, even when the same person is thinking in the same general subject area.
 
-#1. Reward- and punishment super response tendency 
+### 1. Reward- and punishment super response tendency 
 Examples: Federal Express - change incentive from hour based to shift based pay
 Xerox - why does the newer, better model sell less than older, inferior models? The salesperson was incentivized more to sell old models
 Mark Twain’s cat: after a bad experience with a hot stove, never again sat on a hot stove, or a cold stove either.
@@ -18,7 +18,7 @@ Thus get the conclusion that “Incentive is superpower”
 
 “One of the most important consequences of incentive superpower is what I call incentive-caused bias. A man has an acculturated nature, making him a pretty decent fellow, and yet, driven both consciously and subconsciously by incentives, he drifts into immoral behavior in order to get what he wants—a result he facilitates by rationalizing his bad behavior”
 
-Antidote:
+**Antidote:**
 “Widespread incentive-caused bias requires that one should often distrust or take with a grain of salt the advice of one’s professional adviser, even if he is an engineer. The general antidotes here are: 
 Especially fear professional advice when it is especially good for the adviser
 learn and use the basic elements of your adviser’s trade as you deal with your adviser, 
@@ -34,25 +34,25 @@ Consequence:
 Most capitalist owners in a vast web of free-market economic activity are selected for ability by surviving in a brutal competition with other owners and have a strong incentive to prevent all waste in operations within their ownership. After all, they live on the difference between their competitive prices and their overall costs, and their businesses will perish if costs exceed sales. Replace such owners by salaried employees of the state and you will normally get a substantial reduction in overall efficiency, as each employee who replaces an owner is subject to incentive-caused bias as he determines what service he will give in exchange for his salary and how much he will yield to peer pressure from many fellow employees who do not desire his creation of any strong performance model.
 Another generalized consequence of incentive-caused bias is that man tends to game all human systems, often displaying great ingenuity in wrongly serving himself at the expense of others.
 
-#2. Liking/Loving Tendency
+### 2. Liking/Loving Tendency
 
 One very practical consequence of liking/loving tendency is that it acts as a conditioning device that makes the liker or lover tend to 
 ignore the faults of, and comply with the wishes of, the object of his affection; 
 favor people, products, and actions merely associated with the object of his affection, as we shall see when we get to influence-from-mere-association tendency; and 
 distort other facts to facilitate love.
 
-#3. Disliking/hating tendency
+### 3. Disliking/hating tendency
 Disliking / hating tendency also acts as a conditioning device that makes the disliker / hater tend to 
 ignore virtues in the object of dislike;
 dislike people, products, and actions merely associated with the object of his dislike; 
 and distort other facts to facilitate hatred.
 
-#4. Doubt Avoidance tendency
+### 4. Doubt Avoidance tendency
 The brain of man is programmed with a tendency to quickly remove doubt by reaching some decision.
 
 What usually triggers doubt-avoidance tendency is some combination of 1) puzzlement and 2) stress. And both of these factors naturally occur in facing religious issues. Thus, the natural state of most men is in some form of religion. And this is what we observe.
 
-#5. Inconsistency avoidance tendency
+### 5. Inconsistency avoidance tendency
 The brain of man conserves programming space by being reluctant to change, which is a form of inconsistency avoidance.
 
 My guess is the anti-change mode was significantly caused by a combination of the following factors: 
@@ -62,7 +62,7 @@ It was the best form of solution that evolution could get to in the limited numb
 
 It is easy to see that a quickly reached conclusion, triggered by doubt-avoidance tendency, when combined with a tendency to resist any change in that conclusion, will naturally cause a lot of errors in cognition for modern man.
 
-Antidote:
+**Antidote:**
 So great is the bad-decision problem caused by inconsistency-avoidance tendency that our courts have adopted important strategies against it. For instance, before making decisions, judges and juries are required to hear long and skillful presentations of evidence and arguments from the side they will not naturally favor, given their ideas in places
 As Lord Keynes pointed out about his exalted intellectual group at one of the greatest universities in the world, it was not the intrinsic difficulty of new ideas that prevented their acceptance. Instead, the new ideas were not accepted because they were inconsistent with old ideas in place.
 One of the most successful users of an antidote to first-conclusion bias was Charles Darwin. He trained himself, early, to intensively consider any evidence tending to disconfirm any hypothesis of his, more so if he thought his hypothesis was a particularly good one.
@@ -72,16 +72,16 @@ One corollary of inconsistency-avoidance tendency is that a person making big sa
 So strong is the inconsistency-avoidance tendency that it will often prevail after one has merely pretended to have some identity, habit, or conclusion. Thus, for a while, many an actor sort of believes he is Hamlet, prince of Denmark. And many a hypocrite is improved by his pretensions of virtue. And many a judge and juror, while pretending objectivity, is gaining objectivity.
 
 
-#6. Curiosity tendency
+### 6. Curiosity tendency
 There is a lot of innate curiosity in mammals, but its nonhuman version is highest among apes and monkeys. Man’s curiosity, in turn, is much stronger than that of his simian relatives.
 
-#7. Kantian fairness tendency
+### 7. Kantian fairness tendency
 Kant was famous for his categorical imperative, a sort of golden rule that required humans to follow those behavior patterns that, if followed by all others, would make the surrounding human system work best for everybody. It is not too much to say that modern acculturated man displays, and expects from others, a lot of fairness as thus defined by Kant.
 
-#8. Envy/jealousy tendency
+### 8. Envy/jealousy tendency
 “It is not greed that drives the world but envy.” - Warren Buffet
 
-#9. Reciprocation tendency
+### 9. Reciprocation tendency
 The automatic tendency of humans to reciprocate both favors and disfavors has long been noticed as extreme, as it is in apes, monkeys, dogs, and many less cognitively gifted animals. The tendency clearly facilitates group cooperation for the benefit of members. In this respect, it mimics much genetic programming of the social insects.
 
 What both human and ant history suggest is that 
@@ -102,7 +102,7 @@ But the practitioner had a follow-up question: “Will you at least spend one af
 
 
 
-#10. Influence-from-mere-association tendency
+### 10. Influence-from-mere-association tendency
 Oracle + America Cup
 
 But there is another type of conditioned reflex wherein mere association triggers a response.
@@ -111,14 +111,13 @@ high-priced power tools
 high-priced pumps at the bottom of oil wells.
 With luxury goods, the process works with a special boost because buyers who pay high prices often gain extra status from thus demonstrating both their good taste and their ability to pay.
 
-
-
 Consequence
-Antidote
+
+**Antidote**
 Some of the most important miscalculations come from what is accidentally associated with one’s past success, or one’s liking and loving, or one’s disliking and hating, which includes a natural hatred for bad news.
 The proper antidotes to being made such a patsy by past success are 
-1) to carefully examine each past success, looking for accidental, non-causative factors associated with such success that will tend to mislead as one appraises the odds implicit in a proposed new undertaking; 
-and 2) to look for dangerous aspects of the new undertaking that were not present when past success occurred.
+1) to carefully examine each past success, looking for accidental, non-causative factors associated with such success that will tend to mislead as one appraises the odds implicit in a proposed new undertaking; and
+2) to look for dangerous aspects of the new undertaking that were not present when past success occurred.
 
 
 In the business world, people under-appraise both the competency and morals of competitors they dislike. This is a dangerous practice, usually disguised because it occurs on a subconscious basis.
@@ -128,19 +127,16 @@ CBS, in its late heyday, was famous for the occurrence of Persian messenger synd
 The proper antidote to creating Persian messenger syndrome and its bad effects, like those at CBS, is to develop, through exercise of will, a habit of welcoming bad news. At Berkshire, there is a common injunction: “Always tell us the bad news promptly. It is only the good news that can wait.” 
 A final serious clump of bad thinking caused by mere association lies in the common use of classification stereotypes. Because Pete knows that Joe is 90 years old and that most 90-year-old persons don’t think very well, Pete appraises old Joe as a thinking klutz even if old Joe still thinks very well.
 
-
-
-
-
-#11. Simple, pain-avoiding psychological denial
+### 11. Simple, pain-avoiding psychological denial
 This phenomenon first hit me hard in World War II when the super-athlete, super-student son of a family friend flew off over the Atlantic Ocean and never came back. His mother, who was a very sane woman, then refused to believe he was dead. That’s simple, pain-avoiding psychological denial.
 
-#12. Excessive self-regard tendency
+### 12. Excessive self-regard tendency
 We all commonly observe the excessive self-regard of man. He mostly misappraises himself on the high side, like the 90 percent of Swedish drivers who judge themselves to be above average.
 
 
 Consequence
-Antidote
+
+**Antidote**
 Man’s excess of self-regard typically makes him strongly prefer people like himself.
 
 Some of the worst consequences in modern life come when dysfunctional groups of cliquish persons, dominated by excessive self-regard tendency, select as new members of their organizations persons who are very much like themselves.
@@ -155,44 +151,41 @@ There is a famous passage somewhere in Tolstoy that illuminates the power of exc
 1) they didn’t commit their crimes 
 2) considering the pressures and disadvantages of their lives, it is understandable and forgivable that they behaved as they did and became what they became.
 
-
-
-
 The best antidote to folly from an excess of self-regard is to force yourself to be more objective when you are thinking about yourself, your family and friends, your property, and the value of your past and future activity. This isn’t easy to do well and won’t work perfectly, but it will work much better than simply letting psychological nature take its normal course.
 
-#13. Overoptimism tendency
+### 13. Overoptimism tendency
 Consequence
-Antidote
+
+**Antidote**
 “What a man wishes, that also he will believe.”
 One standard antidote to foolish optimism is trained, habitual use of the simple probability math of Fermat and Pascal, taught in my youth to high school sophomores. The mental rules of thumb that evolution gives you to deal with risk are not adequate.
 
 
-#14. Deprival-super reaction tendency
+### 14. Deprival-super reaction tendency
 The quantity of man’s pleasure from a $10 gain does not exactly match the quantity of his displeasure from a $10 loss. That is, the loss seems to hurt much more than the gain seems to help.
 
 Consequence
-Antidote
+
+**Antidote**
 In displaying deprival-superreaction tendency, man frequently incurs disadvantage by misframing his problems. He will often compare what is near instead of what really matters.
 One antidote to intense, deliberate maintenance of groupthink is an extreme culture of courtesy, kept in place despite ideological differences, like the behavior of the justices now serving on the US Supreme Court. 
 
 Another antidote is to deliberately bring in able and articulate disbelievers of incumbent groupthink.
 
-
-
 Why don’t you sell Berkshire Hathaway stock after a big rally?
 Many of these shareholders simply can’t stand the idea of having their Berkshire Hathaway holdings smaller. Partly they dislike facing what they consider an impairment of identity, but mostly they fear missing out on future gains from stock sold or given away.
 
-#15. Social Proof Tendency
+### 15. Social Proof Tendency
 This makes it wise for parents to rely more on manipulating the quality of the peers than on exhortations to their own offspring.
 
 When will social-proof tendency be most easily triggered? Here, the answer is clear from many experiments: Triggering most readily occurs in the presence of puzzlement or stress, and particularly when both exist.
 
-#16. Contrast-misreaction tendency
+### 16. Contrast-misreaction tendency
 Because the nervous system of man does not naturally measure in absolute scientific units, it must instead rely on something simpler. The eyes have a solution that limits their programming needs: The contrast in what is seen is registered. And, as in sight, so does it go, largely, in the other senses. Moreover, as perception goes, so goes cognition. The result is man’s contrast-misreaction tendency.
 
 One of Ben Franklin’s best-remembered and most useful aphorisms is “A small leak will sink a great ship.” The utility of the aphorism is large precisely because the brain so often misses the functional equivalent of a small leak in a great ship.
 
-#17. Stress-influence tendency
+### 17. Stress-influence tendency
 In a phenomenon less well recognized but still widely known, light stress can slightly improve performance—say, in examinations—whereas heavy stress causes dysfunction.
 
 Pavlov’s findings:
@@ -201,38 +194,37 @@ the dogs hardest to break down were also the hardest to return to their pre-brea
 any dog could be broken down, and 
 he couldn’t reverse a breakdown except by reimposing stress.
 
-#18. Availability-misweighting tendency
+### 18. Availability-misweighting tendency
 This mental tendency echoes the words of the song “When I’m not near the girl I love, I love the girl I’m near.” Man’s imperfect, limited-capacity brain easily drifts into working with what’s easily available to it.
 
 The main antidote to miscues from availability-misweighing tendency often involve procedures, including the use of checklists, which are almost always helpful. Another
 
 The great algorithm to remember in dealing with this tendency is simple: An idea or a fact is not worth more merely because it is easily available to you.
 
-#19. Use-it-or-lose-it tendency
+### 19. Use-it-or-lose-it tendency
 All skills attenuate with disuse. I was a whiz at calculus until age 20, after which the skill was soon obliterated by total nonuse. The right antidote to such a loss is to make use of the functional equivalent of the aircraft simulator employed in pilot training. This allows a pilot to continuously practice all of the rarely used skills that he can’t afford to lose.
 
 Throughout his life, a wise man engages in practice of all his useful, rarely used skills, many of them outside his discipline, as a sort of duty to his better self.
 
-#20. Drug-misinfluence tendency
+### 20. Drug-misinfluence tendency
 
-#21. Senescence-misinfluence tendency
+### 21. Senescence-misinfluence tendency
 With advanced age there comes a natural cognitive decay, differing among individuals in the earliness of its arrival and the speed of its progression.
 
-#22. Authority-misinfluence tendency
-
+### 22. Authority-misinfluence tendency
 The obvious implication: Be careful whom you appoint to power, because a dominant authority figure will often be hard to remove, aided as he will be by authority-misinfluence tendency.
 
-#23. Twaddle tendency
+### 23. Twaddle tendency
 Man, as a social animal who has the gift of language, is born to prattle and pour out twaddle that does much damage when serious work is being attempted.
 
 It’s a very important part of wise administration to keep prattling people pouring out twaddle far away from the serious work.
 
 “The principal job of an academic administration is to keep the people who don’t matter from interfering with the work of the people who do.”
 
-#24. Reason-respecting tendency
+### 24. Reason-respecting tendency
 You had to tell who was to do what, where, when, and why.
 
 Unfortunately, reason-respecting tendency is so strong that even a person’s giving of meaningless or incorrect reasons will increase compliance with his orders and requests.
 
-#25. Lollapalooza tendency
+### 25. Lollapalooza tendency
 the tendency to get extreme consequences from confluences of psychological tendencies acting in favor of a particular outcome
