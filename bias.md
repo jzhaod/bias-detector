@@ -5,9 +5,10 @@ Even when perception does get through to man’s brain, it is often mis-weighted
 Man’s often wrong but generally useful psychological tendencies are quite numerous and quite different. The natural consequence of this profusion of tendencies is the grand general principle of social psychology: Cognition is ordinarily situation-dependent, so that different situations often cause different conclusions, even when the same person is thinking in the same general subject area.
 
 ### 1. Reward- and punishment super response tendency 
-Examples: Federal Express - change incentive from hour based to shift based pay
-Xerox - why does the newer, better model sell less than older, inferior models? The salesperson was incentivized more to sell old models
-Mark Twain’s cat: after a bad experience with a hot stove, never again sat on a hot stove, or a cold stove either.
+Examples: 
+- Federal Express - change incentive from hour based to shift based pay
+- Xerox - why does the newer, better model sell less than older, inferior models? The salesperson was incentivized more to sell old models
+- Mark Twain’s cat: after a bad experience with a hot stove, never again sat on a hot stove, or a cold stove either.
 
 
 We should also heed the general lesson implicit in the injunction of Ben Franklin in Poor Richard’s Almanack: “If you would persuade, appeal to interest and not to reason.” This maxim is a wise guide to a great and simple precaution in life: Never, ever, think about something else when you should be thinking about the power of incentives.
@@ -16,36 +17,33 @@ Man-with-a-hammer tendency does not exempt smart people like Blanchard and Skinn
 
 Thus get the conclusion that “Incentive is superpower”
 
-“One of the most important consequences of incentive superpower is what I call incentive-caused bias. A man has an acculturated nature, making him a pretty decent fellow, and yet, driven both consciously and subconsciously by incentives, he drifts into immoral behavior in order to get what he wants—a result he facilitates by rationalizing his bad behavior”
+“*One of the most important consequences of incentive superpower is what I call incentive-caused bias. A man has an acculturated nature, making him a pretty decent fellow, and yet, driven both consciously and subconsciously by incentives, he drifts into immoral behavior in order to get what he wants—a result he facilitates by rationalizing his bad behavior*”
 
 **Antidote:**
 “Widespread incentive-caused bias requires that one should often distrust or take with a grain of salt the advice of one’s professional adviser, even if he is an engineer. The general antidotes here are: 
-Especially fear professional advice when it is especially good for the adviser
-learn and use the basic elements of your adviser’s trade as you deal with your adviser, 
-and double-check, disbelieve, or replace much of what you’re told, to the degree that seems appropriate after objective thought.”
+
+Especially fear professional advice when it is especially good for the adviser learn and use the basic elements of your adviser’s trade as you deal with your adviser, and double-check, disbelieve, or replace much of what you’re told, to the degree that seems appropriate after objective thought.”
+
 Also needed in system design is an admonition: Dread, and avoid as much you can, rewarding people for what can be easily faked.
+
 Granny’s rule, to be specific, is the requirement that children eat their carrots before they get dessert. The business version requires that executives force themselves daily to first do their unpleasant and necessary tasks before rewarding themselves by proceeding to their pleasant tasks.
 
 
 Example of Antidote: National Cash Register - why was that invented?
 
 
-Consequence:
+**Consequence:**
 Most capitalist owners in a vast web of free-market economic activity are selected for ability by surviving in a brutal competition with other owners and have a strong incentive to prevent all waste in operations within their ownership. After all, they live on the difference between their competitive prices and their overall costs, and their businesses will perish if costs exceed sales. Replace such owners by salaried employees of the state and you will normally get a substantial reduction in overall efficiency, as each employee who replaces an owner is subject to incentive-caused bias as he determines what service he will give in exchange for his salary and how much he will yield to peer pressure from many fellow employees who do not desire his creation of any strong performance model.
+
 Another generalized consequence of incentive-caused bias is that man tends to game all human systems, often displaying great ingenuity in wrongly serving himself at the expense of others.
 
 ### 2. Liking/Loving Tendency
 
 One very practical consequence of liking/loving tendency is that it acts as a conditioning device that makes the liker or lover tend to 
-ignore the faults of, and comply with the wishes of, the object of his affection; 
-favor people, products, and actions merely associated with the object of his affection, as we shall see when we get to influence-from-mere-association tendency; and 
-distort other facts to facilitate love.
+ignore the faults of, and comply with the wishes of, the object of his affection; favor people, products, and actions merely associated with the object of his affection, as we shall see when we get to influence-from-mere-association tendency; and distort other facts to facilitate love.
 
 ### 3. Disliking/hating tendency
-Disliking / hating tendency also acts as a conditioning device that makes the disliker / hater tend to 
-ignore virtues in the object of dislike;
-dislike people, products, and actions merely associated with the object of his dislike; 
-and distort other facts to facilitate hatred.
+Disliking / hating tendency also acts as a conditioning device that makes the disliker / hater tend to ignore virtues in the object of dislike; dislike people, products, and actions merely associated with the object of his dislike; and distort other facts to facilitate hatred.
 
 ### 4. Doubt Avoidance tendency
 The brain of man is programmed with a tendency to quickly remove doubt by reaching some decision.
@@ -56,19 +54,21 @@ What usually triggers doubt-avoidance tendency is some combination of 1) puzzlem
 The brain of man conserves programming space by being reluctant to change, which is a form of inconsistency avoidance.
 
 My guess is the anti-change mode was significantly caused by a combination of the following factors: 
-It facilitated faster decisions when speed of decision was an important contribution to the survival of nonhuman ancestors that were prey.
-It facilitated the survival advantage that our ancestors gained by cooperating in groups, which would have been more difficult to do if everyone was always changing responses. 
-It was the best form of solution that evolution could get to in the limited number of generations between the start of literacy and today’s complex modern life. 
+- It facilitated faster decisions when speed of decision was an important contribution to the survival of nonhuman ancestors that were prey.
+- It facilitated the survival advantage that our ancestors gained by cooperating in groups, which would have been more difficult to do if everyone was always changing responses. 
+- It was the best form of solution that evolution could get to in the limited number of generations between the start of literacy and today’s complex modern life. 
 
 It is easy to see that a quickly reached conclusion, triggered by doubt-avoidance tendency, when combined with a tendency to resist any change in that conclusion, will naturally cause a lot of errors in cognition for modern man.
 
 **Antidote:**
 So great is the bad-decision problem caused by inconsistency-avoidance tendency that our courts have adopted important strategies against it. For instance, before making decisions, judges and juries are required to hear long and skillful presentations of evidence and arguments from the side they will not naturally favor, given their ideas in places
 As Lord Keynes pointed out about his exalted intellectual group at one of the greatest universities in the world, it was not the intrinsic difficulty of new ideas that prevented their acceptance. Instead, the new ideas were not accepted because they were inconsistent with old ideas in place.
+
 One of the most successful users of an antidote to first-conclusion bias was Charles Darwin. He trained himself, early, to intensively consider any evidence tending to disconfirm any hypothesis of his, more so if he thought his hypothesis was a particularly good one.
 
-Consequence:
+**Consequence:**
 One corollary of inconsistency-avoidance tendency is that a person making big sacrifices in the course of assuming a new identity will intensify his devotion to the new identity. After all, it would be quite inconsistent behavior to make a large sacrifice for something that was no good.
+
 So strong is the inconsistency-avoidance tendency that it will often prevail after one has merely pretended to have some identity, habit, or conclusion. Thus, for a while, many an actor sort of believes he is Hamlet, prince of Denmark. And many a hypocrite is improved by his pretensions of virtue. And many a judge and juror, while pretending objectivity, is gaining objectivity.
 
 
@@ -84,11 +84,9 @@ Kant was famous for his categorical imperative, a sort of golden rule that requi
 ### 9. Reciprocation tendency
 The automatic tendency of humans to reciprocate both favors and disfavors has long been noticed as extreme, as it is in apes, monkeys, dogs, and many less cognitively gifted animals. The tendency clearly facilitates group cooperation for the benefit of members. In this respect, it mimics much genetic programming of the social insects.
 
-What both human and ant history suggest is that 
-nature has no general algorithm making intraspecies, turn-the-other-cheek behavior a booster of species survival;
-it is not clear that a country would have good prospects were it to abandon all reciprocate-disfavor tendency directed at outsiders; 
-and if turn-the-other-cheek behavior is a good idea for a country as it deals with outsiders, man’s culture is going to have to do a lot of heavy lifting because his genes won’t be of much help.
-Antidotes:
+What both human and ant history suggest is that nature has no general algorithm making intraspecies, turn-the-other-cheek behavior a booster of species survival; it is not clear that a country would have good prospects were it to abandon all reciprocate-disfavor tendency directed at outsiders; and if turn-the-other-cheek behavior is a good idea for a country as it deals with outsiders, man’s culture is going to have to do a lot of heavy lifting because his genes won’t be of much help.
+
+**Antidotes:**
 Wise employers, therefore, try to oppose the reciprocate-favor tendencies of employees engaged in purchasing. The simplest antidote works best: Don’t let them accept any favors from vendors.
 What Cialdini’s compliance practitioners had done was make a small concession, which was reciprocated by a small concession from the other side.
 
@@ -100,31 +98,25 @@ His practitioners next wandered around the campus asking strangers to devote a b
 
 But the practitioner had a follow-up question: “Will you at least spend one afternoon taking juvenile delinquents to a zoo?” This raised Cialdini’s former acceptance rate of 1 in 6 to 1 in 2—a tripling.
 
-
-
 ### 10. Influence-from-mere-association tendency
 Oracle + America Cup
 
 But there is another type of conditioned reflex wherein mere association triggers a response.
 For instance, consider the case of many men who have been trained by their previous experience in life to believe that when several similar items are presented for purchase, the one with the highest price will have the highest quality. Knowing this, some seller of an ordinary industrial product will often change his product’s trade dress and raise its price significantly, hoping that quality-seeking buyers will be tricked into becoming purchasers by mere association of his product and its high price. Examples
-high-priced power tools
-high-priced pumps at the bottom of oil wells.
-With luxury goods, the process works with a special boost because buyers who pay high prices often gain extra status from thus demonstrating both their good taste and their ability to pay.
-
-Consequence
+- high-priced power tools
+- high-priced pumps at the bottom of oil wells. With luxury goods, the process works with a special boost because buyers who pay high prices often gain extra status from thus demonstrating both their good taste and their ability to pay.
 
 **Antidote**
-Some of the most important miscalculations come from what is accidentally associated with one’s past success, or one’s liking and loving, or one’s disliking and hating, which includes a natural hatred for bad news.
-The proper antidotes to being made such a patsy by past success are 
+Some of the most important miscalculations come from what is accidentally associated with one’s past success, or one’s liking and loving, or one’s disliking and hating, which includes a natural hatred for bad news. The proper antidotes to being made such a patsy by past success are 
 1) to carefully examine each past success, looking for accidental, non-causative factors associated with such success that will tend to mislead as one appraises the odds implicit in a proposed new undertaking; and
 2) to look for dangerous aspects of the new undertaking that were not present when past success occurred.
 
-
 In the business world, people under-appraise both the competency and morals of competitors they dislike. This is a dangerous practice, usually disguised because it occurs on a subconscious basis.
 
-
 CBS, in its late heyday, was famous for the occurrence of Persian messenger syndrome because chairman Paley was hostile to people who brought him bad news.
+
 The proper antidote to creating Persian messenger syndrome and its bad effects, like those at CBS, is to develop, through exercise of will, a habit of welcoming bad news. At Berkshire, there is a common injunction: “Always tell us the bad news promptly. It is only the good news that can wait.” 
+
 A final serious clump of bad thinking caused by mere association lies in the common use of classification stereotypes. Because Pete knows that Joe is 90 years old and that most 90-year-old persons don’t think very well, Pete appraises old Joe as a thinking klutz even if old Joe still thinks very well.
 
 ### 11. Simple, pain-avoiding psychological denial
@@ -133,19 +125,14 @@ This phenomenon first hit me hard in World War II when the super-athlete, super-
 ### 12. Excessive self-regard tendency
 We all commonly observe the excessive self-regard of man. He mostly misappraises himself on the high side, like the 90 percent of Swedish drivers who judge themselves to be above average.
 
-
-Consequence
-
 **Antidote**
 Man’s excess of self-regard typically makes him strongly prefer people like himself.
 
-Some of the worst consequences in modern life come when dysfunctional groups of cliquish persons, dominated by excessive self-regard tendency, select as new members of their organizations persons who are very much like themselves.
-Therefore, some of the most useful members of our civilization are those who are willing to clean house when they find a mess under their ambit of control.
-
+Some of the worst consequences in modern life come when dysfunctional groups of cliquish persons, dominated by excessive self-regard tendency, select as new members of their organizations persons who are very much like themselves. Therefore, some of the most useful members of our civilization are those who are willing to clean house when they find a mess under their ambit of control.
 
 Excesses of self-regard often cause bad hiring decisions because employers grossly over-appraise the worth of their own conclusions that rely on impressions in face-to-face contact. 
-The correct antidote to this sort of folly is to underweigh face-to-face impressions and overweigh the applicant’s past record.
 
+The correct antidote to this sort of folly is to underweigh face-to-face impressions and overweigh the applicant’s past record.
 
 There is a famous passage somewhere in Tolstoy that illuminates the power of excessive self-regard tendency. According to Tolstoy, the worst criminals don’t appraise themselves as all that bad. They come to believe either that 
 1) they didn’t commit their crimes 
@@ -154,8 +141,6 @@ There is a famous passage somewhere in Tolstoy that illuminates the power of exc
 The best antidote to folly from an excess of self-regard is to force yourself to be more objective when you are thinking about yourself, your family and friends, your property, and the value of your past and future activity. This isn’t easy to do well and won’t work perfectly, but it will work much better than simply letting psychological nature take its normal course.
 
 ### 13. Overoptimism tendency
-Consequence
-
 **Antidote**
 “What a man wishes, that also he will believe.”
 One standard antidote to foolish optimism is trained, habitual use of the simple probability math of Fermat and Pascal, taught in my youth to high school sophomores. The mental rules of thumb that evolution gives you to deal with risk are not adequate.
@@ -189,17 +174,17 @@ One of Ben Franklin’s best-remembered and most useful aphorisms is “A small 
 In a phenomenon less well recognized but still widely known, light stress can slightly improve performance—say, in examinations—whereas heavy stress causes dysfunction.
 
 Pavlov’s findings:
-he could classify dogs so as to predict how easily a particular dog would break down
-the dogs hardest to break down were also the hardest to return to their pre-breakdown state, 
-any dog could be broken down, and 
-he couldn’t reverse a breakdown except by reimposing stress.
+- he could classify dogs so as to predict how easily a particular dog would break down
+- the dogs hardest to break down were also the hardest to return to their pre-breakdown state, 
+- any dog could be broken down, and 
+- he couldn’t reverse a breakdown except by reimposing stress.
 
 ### 18. Availability-misweighting tendency
-This mental tendency echoes the words of the song “When I’m not near the girl I love, I love the girl I’m near.” Man’s imperfect, limited-capacity brain easily drifts into working with what’s easily available to it.
+This mental tendency echoes the words of the song “*When I’m not near the girl I love, I love the girl I’m near.*” Man’s imperfect, limited-capacity brain easily drifts into working with what’s easily available to it.
 
 The main antidote to miscues from availability-misweighing tendency often involve procedures, including the use of checklists, which are almost always helpful. Another
 
-The great algorithm to remember in dealing with this tendency is simple: An idea or a fact is not worth more merely because it is easily available to you.
+The great algorithm to remember in dealing with this tendency is simple: **An idea or a fact is not worth more merely because it is easily available to you.**
 
 ### 19. Use-it-or-lose-it tendency
 All skills attenuate with disuse. I was a whiz at calculus until age 20, after which the skill was soon obliterated by total nonuse. The right antidote to such a loss is to make use of the functional equivalent of the aircraft simulator employed in pilot training. This allows a pilot to continuously practice all of the rarely used skills that he can’t afford to lose.
